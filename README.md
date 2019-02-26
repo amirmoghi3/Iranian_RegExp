@@ -15,7 +15,7 @@ The most complete Regex for Iranian Phone Number (RegExp)
 
 <br>
 #Email : ^(\D)+(\w)*((\.(\w)+)?)+@(\D)+(\w)*((\.(\D)+(\w)*)+)?(\.)[a-z]{2,}$
-
+<br>
 You Can Check this Regex in <a href="https://regexr.com/">Regexr.com</a> 
 And report the issues
 
