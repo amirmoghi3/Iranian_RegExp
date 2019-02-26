@@ -1,6 +1,6 @@
-
 {
     "Iranian_Phone_number":"^(\\+989|09)[0-3][0-9]{8})",
     "Iranian_citizen_code(codeMelli)":"^[0-9]{10}$",
-    "Iranian_credit_card(SHABA)":"^(IR|ir|Ir|iR)[0-9]{24}$"
+    "Iranian_credit_card(SHABA)":"^(IR|ir|Ir|iR)[0-9]{24}$",
+    "Email" :"^(\\D)+(\\w)*((\\.(\\w)+)?)+@(\\D)+(\\w)*((\\.(\\D)+(\\w)*)+)?(\\.)[a-z]{2,}$"
 }
