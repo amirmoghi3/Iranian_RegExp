@@ -1,3 +1,6 @@
-# Iranian_Phone_Number
+# Regex for Iran
 The most complete Regex for Iranian Phone Number (RegExp)
-:iphone:
+
+
+#phone :iphone: : ^(\+989|09)[0-3][0-9]{8})
+#citizen_card : ^[0-9]{10}$
