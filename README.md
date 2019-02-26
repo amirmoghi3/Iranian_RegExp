@@ -17,4 +17,4 @@ You Can Check this Regex in <a href="https://regexr.com/">Regexr.com</a>
 And report the issues
 
 
-<a href="http://t.me/amirmoghi3">Contact me Telegram</a>
+<a href="http://t.me/amirmoghi3">Contact me in Telegram</a>
