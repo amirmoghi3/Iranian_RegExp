@@ -3,7 +3,7 @@ The most complete Regex for Iranian Phone Number (RegExp)
 <br>
 <hr>
 
-#phone :iphone: : ^(\+989|09)[0-3][0-9]{8})
+#phone :iphone: : ^(\+989|09)[0-9]{9}$
 
 <br>
 
