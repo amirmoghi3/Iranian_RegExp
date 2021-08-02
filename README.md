@@ -3,18 +3,18 @@ The most complete Regex for Iranian Phone Number (RegExp)
 <br>
 <hr>
 
-#phone :iphone: : ^(\+989|09)[0-9]{9}$
+#phone :iphone: :/^(09|9)[0-9]{9}$/g
 
 <br>
 
-#citizen_card : ^[0-9]{10}$
+#citizen_card : /^[0-9]{10}$/g
 
 <br>
 
-#Credit_Card(SHABA) : ^(IR|ir|Ir|iR)[0-9]{24}$
+#Credit_Card(SHABA) : /^(IR|ir|Ir|iR)[0-9]{24}$/g
 
 <br>
-#Email : ^(\D)+(\w)*((\.(\w)+)?)+@(\D)+(\w)*((\.(\D)+(\w)*)+)?(\.)[a-z]{2,}$
+#Email : /^(\D)+(\w)*((\.(\w)+)?)+@(\D)+(\w)*((\.(\D)+(\w)*)+)?(\.)[a-z]{2,}$/g
 <br>
 You Can Check this Regex in <a href="https://regexr.com/">Regexr.com</a> 
 And report the issues
